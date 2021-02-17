@@ -4,7 +4,7 @@
 
 Understanding of **React, Hooks, Babel, Webpack**
 
-### In this project, I am going to use react without help of create-react-app
+#### In this project, I am going to use react without help of create-react-app
 
 | Game | Component | Screenshot |
 |--|--|--|
